@@ -1,3 +1,5 @@
+# This is a mirror fork or an exact copy of the original https://github.com/rank-coder/khipro-m17n.
+# This repo was created for reference only.
 [বাংলায় পড়ুন](README.md)
 ## Our Website
 ### https://khipro.khiproteam.com/
